@@ -110,7 +110,7 @@ $mysqli->close();
                                 <th>Encryption</th>
                                 <th>Connection_mode</th>
                                 <th>Channel</th>
-                                <th>Receive_level</th>
+                                <th>Receive level</th>
                                 <th>Spotted</th>
                                 <th>Created</th>
                                 <th>Updated</th>
